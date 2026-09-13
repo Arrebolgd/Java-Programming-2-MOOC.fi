@@ -1,0 +1,100 @@
+{"folders":[
+		{
+			"name": ".tmc",
+			"path": "../../../../AppData/Roaming/VSCodium/User/globalStorage/moocfi.test-my-code/workspaces/.tmc"
+		},
+		{
+			"name": "part08-Part08_01.Cubes",
+			"path": "part08-Part08_01.Cubes"
+		},
+		{
+			"name": "part08-Part08_02.AverageOfPositiveNumbers",
+			"path": "part08-Part08_02.AverageOfPositiveNumbers"
+		},
+		{
+			"name": "part08-Part08_03.LiquidContainers",
+			"path": "part08-Part08_03.LiquidContainers"
+		},
+		{
+			"name": "part08-Part08_04.LiquidContainers2",
+			"path": "part08-Part08_04.LiquidContainers2"
+		},
+		{
+			"name": "part08-Part08_05.TodoList",
+			"path": "part08-Part08_05.TodoList"
+		},
+		{
+			"name": "part08-Part08_06.Nicknames",
+			"path": "part08-Part08_06.Nicknames"
+		},
+		{
+			"name": "part08-Part08_07.Abbreviations",
+			"path": "part08-Part08_07.Abbreviations"
+		},
+		{
+			"name": "part08-Part08_08.PrintMeMyHashmap",
+			"path": "part08-Part08_08.PrintMeMyHashmap"
+		},
+		{
+			"name": "part08-Part08_09.PrintMeAnotherHashmap",
+			"path": "part08-Part08_09.PrintMeAnotherHashmap"
+		},
+		{
+			"name": "part08-Part08_10.IOweYou",
+			"path": "part08-Part08_10.IOweYou"
+		},
+		{
+			"name": "part08-Part08_11.SameDate",
+			"path": "part08-Part08_11.SameDate"
+		},
+		{
+			"name": "part08-Part08_12.HashedDate",
+			"path": "part08-Part08_12.HashedDate"
+		},
+		{
+			"name": "part08-Part08_13.VehicleRegistry",
+			"path": "part08-Part08_13.VehicleRegistry"
+		},
+		{
+			"name": "part08-Part08_14.DictionaryOfManyTranslations",
+			"path": "part08-Part08_14.DictionaryOfManyTranslations"
+		},
+		{
+			"name": "part08-Part08_15.StorageFacility",
+			"path": "part08-Part08_15.StorageFacility"
+		}
+	],"settings":{"explorer.decorations.colors":false,"files.autoSave":"onFocusChange","files.exclude":{
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/.available_points.json": true,
+            "**/.tmc_test_results.json": true,
+            "**/.tmcproject.yml": true,
+            "**/tmc": true,
+            "**/.settings": true,
+            "**/.tmcproject.json": true,
+            "**/.tmc.json": true,
+            "**/.tmc.lock": true,
+            "**/.tmc_test_results.hmac.sha256": true
+        },
+        "files.watcherExclude": {
+            ".git/objects/**": true,
+            ".git/subtree-cache/**": true,
+            ".hg/store/**": true,
+            "*/.git/objects/**": true,
+            "*/.git/subtree-cache/**": true,
+            "*/.hg/store/**": true,
+            "**/.vscode/**": true,
+            "**/.tmc.json": true
+        },
+        "problems.decorations.enabled": false,
+        "workbench.editor.closeOnFileDelete": true,
+        "testMyCode.downloadOldSubmission": true,
+        "testMyCode.hideMetaFiles": true,
+        "testMyCode.updateExercisesAutomatically": true,
+        "explorer.decorations.badges": true
+    }
+}
