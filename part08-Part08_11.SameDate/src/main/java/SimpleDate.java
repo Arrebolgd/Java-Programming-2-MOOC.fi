@@ -51,4 +51,26 @@ public class SimpleDate {
         return this.year - other.year - yearRemoved;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+
+        if (obj == this) {
+            return true;
+        }
+
+        if (!(obj instanceof SimpleDate)) {
+            return false;
+        }
+
+        SimpleDate dateToCompare = (SimpleDate) obj;
+
+        if (dateToCompare.day == this.day
+                && dateToCompare.month == this.month
+                && dateToCompare.year == this.year) {
+            return true;
+        }
+
+        return false;
+    }
+
 }
